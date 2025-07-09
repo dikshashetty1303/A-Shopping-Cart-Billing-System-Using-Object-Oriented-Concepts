@@ -5,3 +5,4 @@ Abstraction – Used abstract Item class with pure virtual functions.
 3. Inheritance – Product inherits from Item class.
 4. Polymorphism – Virtual functions allow different behavior for different item types.
 5. Modularity – Classes like Product and ShoppingCart separate logic neatly.
+![image](https://github.com/user-attachments/assets/087589fc-1ac9-4be3-a073-87c0cf723024)
